@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **thorveshubham@gmail.com**
 
+- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=thorveshubham)](https://github.com/KnlnKS/leetcode-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamthorve9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamthorve9" height="30" width="40" /></a>
