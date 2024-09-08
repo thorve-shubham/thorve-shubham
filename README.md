@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thorveshubham@gmail.com**
 
-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=thorveshubham)](https://github.com/KnlnKS/leetcode-stats)
+(https://leetcode-stats-six.vercel.app/?username=thorveshubham
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
