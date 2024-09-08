@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorve-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="thorve-shubham" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thorve-shubham" alt="thorve-shubham" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shubhamthorve9" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamthorve9?logo=twitter&style=for-the-badge" alt="shubhamthorve9" /></a> </p>
 
 - 🔭 I’m currently studying **Advanced Computer Science with Data Science at Strathclyde University**
