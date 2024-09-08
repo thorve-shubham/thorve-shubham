@@ -14,6 +14,7 @@
 - 👨‍💻 Explore my projects on GitHub: [thorve-shubham](https://github.com/thorve-shubham)
 - 📫 Reach me at **thorveshubham@gmail.com**
 
+My LeetCode Stats...
 ![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thorveshubham&theme=Light)
 
 <h3 align="left">Connect with me:</h3>
