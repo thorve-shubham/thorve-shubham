@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Thorve</h1>
-<h3 align="center">Computer Science student at the University of Strathclyde with 4+ years of Full Stack Web Development experience.</h3>
+<h3 align="center">Full Stack Software Engineer with 4+ years of experience in building scalable web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorve-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="thorve-shubham" /> </p>
 
@@ -9,14 +9,17 @@
   </a> 
 </p>
 
-- 🔭 I’m currently pursuing **Advanced Computer Science with Data Science at the University of Strathclyde**
-- 💼 Former Product Developer at **BMC Software**, Engineer at **Nextgen Healthcare** and **Capgemini**
+- 💼 Currently working as **Associate Software Engineer II at J.P. Morgan Chase**
+- 🎓 Graduated in **March 2025** with a Master's in **Advanced Computer Science with Data Science** from the **University of Strathclyde**
+- 💼 Former Product Developer at **BMC Software**, Engineer at **Nextgen Healthcare**, **e-Zest Solutions**, and **Capgemini**
 - 👨‍💻 Explore my projects on GitHub: [thorve-shubham](https://github.com/thorve-shubham)
 - 📫 Reach me at **thorveshubham@gmail.com**
 
-My LeetCode Stats...
+### 🧠 My LeetCode Stats
 
 ![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thorveshubham&theme=Light)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
