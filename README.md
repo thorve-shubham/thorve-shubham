@@ -17,7 +17,7 @@
 
 ### 🧠 My LeetCode Stats
 
-![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thorveshubham&theme=Light)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=thorveshubham&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
 ---
 
